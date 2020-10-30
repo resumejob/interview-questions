@@ -1,6 +1,11 @@
 # 高频面试题
 
-根据国内外论坛收集超过 1700 篇真实面经整理的腾讯，阿里，字节跳动，Shopee，美团，滴滴高频面试题
+根据国内外论坛收集超过 1700 篇真实面经整理的腾讯，阿里，字节跳动，Shopee，美团，滴滴等公司的真实高频面试题
+
+### 其他内容
+
+- [免费项目实战课程](https://github.com/resumejob/free-project-course)
+- [程序员简历例句](https://github.com/resumejob/awesome-resume)
 
 ### 目录
 - [腾讯](#腾讯)
