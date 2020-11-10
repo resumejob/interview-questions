@@ -1,11 +1,18 @@
-# 高频面试题
+## 介绍
 
-根据国内外论坛收集超过 1700 篇真实面经整理的腾讯，阿里，字节跳动，Shopee，美团，滴滴等公司的真实高频面试题
+本项目由**海外兔** (https://osjobs.net) 维护，海外兔团队由一线互联网面试官组成，提供海内外公司一对一入职套餐以及算法课程。
 
-### 其他内容
+**入职不成功不收费。详细信息请浏览[求职课程](https://osjobs.net/co/)**
 
-- [免费项目实战课程](https://github.com/resumejob/free-project-course)
+## 相关项目
+
+- [大厂高频面经面试题（每天更新）](https://osjobs.net/topk/)
 - [程序员简历例句](https://github.com/resumejob/awesome-resume)
+- [免费项目实战课程](https://github.com/resumejob/free-project-course)
+
+## 高频面试题
+
+根据国内外论坛收集超过 1800 篇真实面经，包括腾讯，阿里，字节跳动，Shopee，美团，滴滴，百度，京东等公司的真实高频面试题。
 
 ### 目录
 - [腾讯](#腾讯)
