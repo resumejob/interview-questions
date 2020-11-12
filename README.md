@@ -1119,7 +1119,6 @@
 - ▲ 8 简述 React 的生命周期
 - ▲ 8 了解 XSS 攻击吗？如何防止 XSS 攻击？
 - ▲ 6 promise 有哪些状态？简述 promise.all 的实现原理
-- ▲ 6 promise 有哪些状态？简述 promise.all 的实现原理
 - ▲ 4 HTTP 中 GET 和 POST 区别
 - ▲ 3 什么是替换元素与非替换元素
 - ▲ 2 简述 ES6 的新特性
