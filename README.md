@@ -6,13 +6,13 @@
 
 ## 相关项目
 
-- [大厂高频面经面试题（每天更新）](https://osjobs.net/topk/)
+- [大厂高频面试题（每天更新）](https://osjobs.net/topk/)
 - [程序员简历例句](https://github.com/resumejob/awesome-resume)
 - [免费项目实战课程](https://github.com/resumejob/free-project-course)
 
 ## 高频面试题
 
-根据国内外论坛收集超过 1800 篇真实面经，包括腾讯，阿里，字节跳动，Shopee，美团，滴滴，百度，京东等公司的真实高频面试题。
+根据国内外论坛收集超过 2000 篇真实面经，包括腾讯，阿里，字节跳动，Shopee，美团，滴滴，百度，京东等公司的真实高频面试题。
 
 ### 目录
 - [腾讯](#腾讯)
@@ -124,7 +124,7 @@
 ## 腾讯
 
 #### # Java
-- ▲ 38 HashMap 与 ConcurrentHashMap 的实现原理是怎样的？ConcurrentHashMap 是如何保证线程安全的？
+- ▲ 40 HashMap 与 ConcurrentHashMap 的实现原理是怎样的？ConcurrentHashMap 是如何保证线程安全的？
 - ▲ 27 volatile 关键字解决了什么问题，它的实现原理是什么？
 - ▲ 26 Java 中垃圾回收机制中如何判断对象需要回收？常见的 GC 回收算法有哪些？
 - ▲ 26 synchronized 关键字底层是如何实现的？它与 Lock 相比优缺点分别是什么？
@@ -1115,8 +1115,8 @@
 
 #### # 前端
 
-- ▲ 10 readyState 的不同返回值有什么区别？
-- ▲ 8 简述 React 的生命周期
+- ▲ 12 readyState 的不同返回值有什么区别？
+- ▲ 9 简述 React 的生命周期
 - ▲ 8 了解 XSS 攻击吗？如何防止 XSS 攻击？
 - ▲ 6 promise 有哪些状态？简述 promise.all 的实现原理
 - ▲ 6 promise 有哪些状态？简述 promise.all 的实现原理
