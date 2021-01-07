@@ -371,7 +371,7 @@
 - ▲ 3 简述什么是最左匹配原则
 - ▲ 2 数据库的读写分离的作用是什么？如何实现？
 - ▲ 2 简述 Redis 中跳表的应用以及优缺点
-- ▲ 1 Redis 中，sentine l和 cluster 的区别和适用场景是什么？
+- ▲ 1 Redis 中，sentinel和 cluster 的区别和适用场景是什么？
 
 #### # 系统设计
 
@@ -1123,7 +1123,6 @@
 - ▲ 12 readyState 的不同返回值有什么区别？
 - ▲ 9 简述 React 的生命周期
 - ▲ 8 了解 XSS 攻击吗？如何防止 XSS 攻击？
-- ▲ 6 promise 有哪些状态？简述 promise.all 的实现原理
 - ▲ 6 promise 有哪些状态？简述 promise.all 的实现原理
 - ▲ 4 HTTP 中 GET 和 POST 区别
 - ▲ 3 什么是替换元素与非替换元素
