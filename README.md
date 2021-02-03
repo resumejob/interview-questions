@@ -129,7 +129,7 @@
 ## 腾讯
 
 #### # Java
-- ▲ 40 HashMap 与 ConcurrentHashMap 的实现原理是怎样的？ConcurrentHashMap 是如何保证线程安全的？
+- ▲ 41 HashMap 与 ConcurrentHashMap 的实现原理是怎样的？ConcurrentHashMap 是如何保证线程安全的？
 - ▲ 27 volatile 关键字解决了什么问题，它的实现原理是什么？
 - ▲ 26 Java 中垃圾回收机制中如何判断对象需要回收？常见的 GC 回收算法有哪些？
 - ▲ 26 synchronized 关键字底层是如何实现的？它与 Lock 相比优缺点分别是什么？
@@ -139,7 +139,7 @@
 - ▲ 14 Java 线程和操作系统的线程是怎么对应的？Java线程是怎样进行调度的?
 - ▲ 11 简述 BIO, NIO, AIO 的区别
 - ▲ 11 实现单例设计模式（懒汉，饿汉）
-- ▲ 10 == 和 equals() 的区别？
+- ▲ 11 == 和 equals() 的区别？
 - ▲ 8 简述 Spring AOP 的原理
 - ▲ 6 简述 Synchronized，Volatile，可重入锁的不同使用场景及优缺点
 - ▲ 2 简述 Java 的 happen before 原则
@@ -182,7 +182,7 @@
 #### # 网络协议
 
 - ▲ 41 简述 TCP 三次握手以及四次挥手的流程。为什么需要三次握手以及四次挥手？
-- ▲ 32 RestFul 与 RPC 的区别是什么？RestFul 的优点在哪里？
+- ▲ 34 RestFul 与 RPC 的区别是什么？RestFul 的优点在哪里？
 - ▲ 29 HTTP 与 HTTPS 有哪些区别？
 - ▲ 26 RestFul 是什么？RestFul 请求的 URL 有什么特点？
 - ▲ 23 一次 HTTP 的请求过程中发生了什么？
