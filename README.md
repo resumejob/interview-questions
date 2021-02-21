@@ -206,7 +206,7 @@
 - ▲ 21 最大子序和 (Leetcode)
 - ▲ 20 爬楼梯 (Leetcode)
 - ▲ 18 用 Rand7() 实现 Rand10() (Leetcode)
-- ▲ 15 AVL 树和红黑树有什么区别？
+- ▲ 17 AVL 树和红黑树有什么区别？
 - ▲ 15 给定一个包含 40亿 个无符号整数的大型文件，使用最多 1G 内存，对此文件进行排序
 - ▲ 14 合并两个有序链表 (Leetcode)
 - ▲ 14 路径总和 (Leetcode)
@@ -277,7 +277,7 @@
 - ▲ 49 HashMap 与 ConcurrentHashMap 的实现原理是怎样的？ConcurrentHashMap 是如何保证线程安全的？
 - ▲ 41 Java 中垃圾回收机制中如何判断对象需要回收？常见的 GC 回收算法有哪些？
 - ▲ 34 简述 Synchronized，Volatile，可重入锁的不同使用场景及优缺点
-- ▲ 30 synchronized 关键字底层是如何实现的？它与 Lock 相比优缺点分别是什么？
+- ▲ 32 synchronized 关键字底层是如何实现的？它与 Lock 相比优缺点分别是什么？
 - ▲ 26 JVM 中内存模型是怎样的，简述新生代与老年代的区别？
 - ▲ 20 简述 Spring AOP 的原理
 - ▲ 19 实现单例设计模式（懒汉，饿汉）
