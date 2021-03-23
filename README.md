@@ -20,11 +20,13 @@
 
 根据国内外论坛收集超过 2000 篇真实面经，包括腾讯，阿里，字节跳动，Shopee，美团，滴滴，百度，京东等公司的高频面试题。为获得更好的阅读体验，请通过 [osjobs.net/topk/](https://osjobs.net/topk/) 浏览此仓库内容
 
+<br>
 
-### 其他项目
-
-- [程序员简历例句](https://github.com/resumejob/awesome-resume)
-- [免费项目实战课程](https://github.com/resumejob/free-project-course)
+| 热门项目     | 链接 |
+| ----------- | ----------- |
+| 简历例句     | <a href="https://github.com/resumejob/awesome-resume">https://github.com/resumejob/awesome-resume</a>      |
+| 大厂高频面经面试题      | <a href="https://osjobs.net/topk/">https://osjobs.net/topk/</a>      |
+| 免费项目实战课程   | <a href="https://github.com/resumejob/free-project-course">https://github.com/resumejob/free-project-course/</a>        |
 
 <hr>
 
