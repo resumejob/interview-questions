@@ -18,7 +18,7 @@
 
 ![img](https://raw.githubusercontent.com/resumejob/interview-questions/main/imgs/topk.png)
 
-根据国内外论坛收集超过 2000 篇真实面经，包括腾讯，阿里，字节跳动，Shopee，美团，滴滴，百度，京东等公司的高频面试题。为获得更好的阅读体验，请通过 [osjobs.net/topk/](https://osjobs.net/topk/) 浏览此仓库内容
+根据国内外论坛收集超过 2000 篇真实面经，包括腾讯，阿里，字节跳动，Shopee，美团，滴滴，百度，京东等公司的高频面试题。为获得更好的阅读体验，请通过 [osjobs.net/topk/](https://osjobs.net/topk/) 浏览此仓库内容。题目前面的数字为出现次数。
 
 <br>
 
@@ -45,21 +45,21 @@
 ## 腾讯
 
 #### # Java
-- ▲ 41 HashMap 与 ConcurrentHashMap 的实现原理是怎样的？ConcurrentHashMap 是如何保证线程安全的？
-- ▲ 27 volatile 关键字解决了什么问题，它的实现原理是什么？
-- ▲ 26 Java 中垃圾回收机制中如何判断对象需要回收？常见的 GC 回收算法有哪些？
-- ▲ 26 synchronized 关键字底层是如何实现的？它与 Lock 相比优缺点分别是什么？
-- ▲ 24 简述 JVM 的内存模型 JVM 内存是如何对应到操作系统内存的？
-- ▲ 20 集合类中的 List 和 Map 的线程安全版本是什么，如何保证线程安全的？
-- ▲ 15 String 类能不能被继承？为什么？
-- ▲ 14 Java 线程和操作系统的线程是怎么对应的？Java线程是怎样进行调度的?
-- ▲ 11 简述 BIO, NIO, AIO 的区别
-- ▲ 11 实现单例设计模式（懒汉，饿汉）
-- ▲ 11 == 和 equals() 的区别？
-- ▲ 8 简述 Spring AOP 的原理
-- ▲ 6 简述 Synchronized，Volatile，可重入锁的不同使用场景及优缺点
-- ▲ 2 简述 Java 的 happen before 原则
-- ▲ 1 SpringBoot 是如何进行自动配置的？
+- 41次 HashMap 与 ConcurrentHashMap 的实现原理是怎样的？ConcurrentHashMap 是如何保证线程安全的？
+- 27次 volatile 关键字解决了什么问题，它的实现原理是什么？
+- 26次 Java 中垃圾回收机制中如何判断对象需要回收？常见的 GC 回收算法有哪些？
+- 26次 synchronized 关键字底层是如何实现的？它与 Lock 相比优缺点分别是什么？
+- 24次 简述 JVM 的内存模型 JVM 内存是如何对应到操作系统内存的？
+- 20次 集合类中的 List 和 Map 的线程安全版本是什么，如何保证线程安全的？
+- 15次 String 类能不能被继承？为什么？
+- 14次 Java 线程和操作系统的线程是怎么对应的？Java线程是怎样进行调度的?
+- 11次 简述 BIO, NIO, AIO 的区别
+- 11次 实现单例设计模式（懒汉，饿汉）
+- 11次 == 和 equals() 的区别？
+- 8次 简述 Spring AOP 的原理
+- 6次 简述 Synchronized，Volatile，可重入锁的不同使用场景及优缺点
+- 2次 简述 Java 的 happen before 原则
+- 1次 SpringBoot 是如何进行自动配置的？
 
 #### # C++
 - ▲ 16 C++ 中智能指针和指针的区别是什么？
