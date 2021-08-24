@@ -27,6 +27,10 @@
 <hr>
 
 ### 目录
+- [谷歌](https://osjobs.net/topk/%E8%B0%B7%E6%AD%8C/)
+- [脸书](https://osjobs.net/topk/%E8%84%B8%E4%B9%A6/)
+- [苹果](https://osjobs.net/topk/%E8%8B%B9%E6%9E%9C/)
+- [亚马逊](https://osjobs.net/topk/%E4%BA%9A%E9%A9%AC%E9%80%8A/)
 - [腾讯](https://osjobs.net/topk/%E8%85%BE%E8%AE%AF/)
 - [阿里](https://osjobs.net/topk/%E9%98%BF%E9%87%8C/)
 - [字节跳动](https://osjobs.net/topk/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8/)
