@@ -18,14 +18,6 @@
 
 根据国内外论坛收集超过 2000 篇真实面经，包括腾讯，阿里，字节跳动，Shopee，美团，滴滴，百度，京东等公司的高频面试题。
 
-| 热门项目     | 链接 |
-| ----------- | ----------- |
-| 简历例句     | <a href="https://github.com/resumejob/awesome-resume">https://github.com/resumejob/awesome-resume</a>      |
-| 大厂高频面经面试题      | <a href="https://osjobs.net/topk/">https://osjobs.net/topk/</a>      |
-| 免费项目实战课程   | <a href="https://github.com/resumejob/free-project-course">https://github.com/resumejob/free-project-course/</a>        |
-
-<hr>
-
 ### 目录
 - [谷歌](https://osjobs.net/topk/%E8%B0%B7%E6%AD%8C/)
 - [脸书](https://osjobs.net/topk/%E8%84%B8%E4%B9%A6/)
